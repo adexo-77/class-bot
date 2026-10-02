@@ -9,5 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adexo-77/class-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adexo-77/class-bot/issues"
+  },
+  "homepage": "https://github.com/adexo-77/class-bot#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "telegraf": "^4.16.3"
+  }
 }
